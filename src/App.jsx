@@ -24,6 +24,7 @@ function App() {
       {/* Footer */}
       {/* new  */}
       {/* sdjosudiou */}
+     {/* Strak */}
      </div>
     </>
   )
