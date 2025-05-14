@@ -4,6 +4,7 @@ import Navbar from './components/navbar'
 import Headpage from './components/headpage'
 import Fiction from './components/fiction'
 import NonFiction from './components/nonfiction'
+import Footer from './components/footer'
 
 
 
@@ -15,7 +16,7 @@ function App() {
       <Headpage/>
       <Fiction/>
       <NonFiction/>
-      
+      <Footer/>
      </div>
     </>
   )
